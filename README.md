@@ -1,2 +1,2 @@
-# knstl-cosmwasm
-Cosmwasm Contracts for Konstellation Network Ecosystem
+
+Cosmwasm Contracts for customized Network Ecosystem
